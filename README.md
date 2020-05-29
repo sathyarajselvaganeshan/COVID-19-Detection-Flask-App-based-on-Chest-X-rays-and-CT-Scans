@@ -15,9 +15,11 @@ The dataset for the project was gathered from two sources:
 80% of the images were used for training the models and the remaining 20% for testing
 
 # Evaluation and Results
-<br>
 <h3>Sample output of test images</h3><br>
-<img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/sample_chest.PNG"> <img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/sample_ct.PNG">
-<br>
-<b>Classification Reports of InceptionV3, VGG, ResNet50, Xception for Chest X-rays</b>
+<div class="col-sm-6">
+<img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/sample_chest.PNG"> 
+</div>
+ <img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/sample_ct.PNG">
+
+<h3>Classification Reports of InceptionV3, VGG, ResNet50, Xception for Chest X-rays</h3>
 <img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/flask%20app/assets/images/vgg_chest_report.PNG"> <img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/flask%20app/assets/images/inception_chest_report.PNG">
