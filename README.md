@@ -16,10 +16,11 @@ The dataset for the project was gathered from two sources:
 
 # Evaluation and Results
 <h3>Sample output of test images</h3><br>
-<div class="col-sm-6">
+<div class="col-lg-6">
 <img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/sample_chest.PNG"> 
 </div>
+<div class="col-lg-6">
  <img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/sample_ct.PNG">
-
+</div>
 <h3>Classification Reports of InceptionV3, VGG, ResNet50, Xception for Chest X-rays</h3>
 <img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/flask%20app/assets/images/vgg_chest_report.PNG"> <img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/flask%20app/assets/images/inception_chest_report.PNG">
