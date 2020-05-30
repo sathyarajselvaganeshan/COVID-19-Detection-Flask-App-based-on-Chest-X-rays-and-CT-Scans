@@ -49,3 +49,5 @@ The dataset for the project was gathered from two sources:
 
 <img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/banner2.PNG">
 
+For more screenshots, please visit the screenshots folder, or <a href=""https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/tree/master/screenshots>click here</a>
+
