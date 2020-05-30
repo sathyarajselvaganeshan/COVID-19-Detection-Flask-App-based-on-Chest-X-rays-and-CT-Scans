@@ -49,5 +49,17 @@ The dataset for the project was gathered from two sources:
 
 <img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/banner2.PNG">
 
-For more screenshots, please visit the screenshots folder, or <a href=""https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/tree/master/screenshots>click here</a>
+For more screenshots, please visit the screenshots folder, or <a href="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/tree/master/screenshots">click here</a>
 
+<h3> How to use Flask App</h3>
+<ul>
+  <li>Download repo, change to directory of repo, go to command prompt and run <b>pip install -r requirements.txt</b></li>
+  <li>On command prompt, run <b>python app.py</b></li>
+  <li>Open your web browser and go to 127.0.0.1:5000 to access the Flask App</li>
+</ul>
+
+<h3> How to use Jupyter Notebooks </h3>
+<ul>
+  <li>Download my repo and upload the repo folder to your <b>Google Drive</b></li>
+  <li>Go to the jupyter notebooks folder in my repo, right click the notebook you want to open and select <b>Open with Google Colab</b>   </li>
+</ul>
