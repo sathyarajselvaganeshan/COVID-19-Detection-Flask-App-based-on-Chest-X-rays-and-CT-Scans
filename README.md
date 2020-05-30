@@ -47,7 +47,7 @@ The dataset for the project was gathered from two sources:
 
 <img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/banner.PNG">
 
-<img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/banner2.PNG">
+<img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/banner2.PNG" width="150%">
 
 For more screenshots, please visit the screenshots folder, or <a href="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/tree/master/screenshots">click here</a>
 
@@ -55,7 +55,7 @@ For more screenshots, please visit the screenshots folder, or <a href="https://g
 <ul>
   <li>Download repo, change to directory of repo, go to command prompt and run <b>pip install -r requirements.txt</b></li>
   <li>On command prompt, run <b>python app.py</b></li>
-  <li>Open your web browser and go to 127.0.0.1:5000 to access the Flask App</li>
+  <li>Open your web browser and go to <b>127.0.0.1:5000</b> to access the Flask App</li>
 </ul>
 
 <h3> How to use Jupyter Notebooks </h3>
