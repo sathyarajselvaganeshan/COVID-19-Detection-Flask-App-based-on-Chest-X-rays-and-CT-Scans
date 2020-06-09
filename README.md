@@ -8,7 +8,7 @@ CT Scans        93%          93%      80%       95%
 </pre>
 A Flask App was later developed wherein user can upload Chest X-rays or CT Scans and get the output of possibility of COVID infection.
 
-The article for the project was selected and published in Towards Data Science:<br> 
+The article for the project was selected and published in <b>Towards Data Science</b>:<br> 
 https://towardsdatascience.com/covid-19-detector-flask-app-based-on-chest-x-rays-and-ct-scans-using-deep-learning-a0db89e1ed2a
 
 # Dataset
