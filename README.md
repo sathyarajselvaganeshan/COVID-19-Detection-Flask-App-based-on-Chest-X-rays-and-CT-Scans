@@ -54,15 +54,46 @@ The dataset for the project was gathered from two sources:
 
 For more screenshots, please visit the <b>screenshots folder</b> of my repo, or <a href="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/tree/master/screenshots">click here</a>
 
-<h3> How to use Flask App</h3>
+# Technical Concepts
+<b>ImageNet</b> is formally a project aimed at (manually) labeling and categorizing images into almost 22,000 separate object categories for the purpose of computer vision research.<br>
+More information can be found <a href="https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/">here</a>
+<br>
+<br>
+<b>ResNet50</b> ResNet-50 is a convolutional neural network that is 50 layers deep. You can load a pretrained version of the network trained on more than a million images from the ImageNet database. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals. Unlike traditional sequential network architectures such as AlexNet, OverFeat, and VGG, ResNet is instead a form of “exotic architecture” that relies on micro-architecture modules.<br>
+More information can be found <a href="https://www.mathworks.com/help/deeplearning/ref/resnet50.html#:~:text=ResNet%2D50%20is%20a%20convolutional,%2C%20pencil%2C%20and%20many%20animals.">here</a>
+<br>
+<br>
+<b>VGG16</b> is a convolutional neural network model proposed by K. Simonyan and A. Zisserman from the University of Oxford in the paper “Very Deep Convolutional Networks for Large-Scale Image Recognition”. The model achieves 92.7% top-5 test accuracy in ImageNet, which is a dataset of over 14 million images belonging to 1000 classes. <br>
+More information can be found <a href="https://www.mathworks.com/help/deeplearning/ref/resnet50.html#:~:text=ResNet%2D50%20is%20a%20convolutional,%2C%20pencil%2C%20and%20many%20animals.">here</a>
+<br>
+<br>
+<b>Inception-V3</b> is a convolutional neural network that is 48 layers deep. You can load a pretrained version of the network trained on more than a million images from the ImageNet database. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals. As a result, the network has learned rich feature representations for a wide range of images. The network has an image input size of 299-by-299.<br>
+More information can be found <a href="https://www.mathworks.com/help/deeplearning/ref/resnet50.html#:~:text=ResNet%2D50%20is%20a%20convolutional,%2C%20pencil%2C%20and%20many%20animals.">here</a>
+<br>
+<br>
+<b>Xception</b> is a convolutional neural network that is 71 layers deep. You can load a pretrained version of the network trained on more than a million images from the ImageNet database. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals. As a result, the network has learned rich feature representations for a wide range of images. The network has an image input size of 299-by-299. <br>
+More information can be found <a href="https://www.mathworks.com/help/deeplearning/ref/resnet50.html#:~:text=ResNet%2D50%20is%20a%20convolutional,%2C%20pencil%2C%20and%20many%20animals.">here</a>
+
+
+## How to use Flask App
 <ul>
   <li>Download repo, change to directory of repo, go to command prompt and run <b>pip install -r requirements.txt</b></li>
   <li>On command prompt, run <b>python app.py</b></li>
   <li>Open your web browser and go to <b>127.0.0.1:5000</b> to access the Flask App</li>
 </ul>
 
-<h3> How to use Jupyter Notebooks </h3>
+## How to use Jupyter Notebooks 
 <ul>
   <li>Download my repo and upload the repo folder to your <b>Google Drive</b></li>
   <li>Go to the jupyter notebooks folder in my repo, right click the notebook you want to open and select <b>Open with Google Colab</b>   </li>
+  <li>Activate free Google Colab GPU for faster execution. Go to Runtime -> Change Runtime Type -> Hardware Accelerator -> GPU -> Save</li>
+</ul>
+
+# Authors
+## Kaushik Jadhav
+<ul>
+<li>Github:https://github.com/kaushikjadhav01</li>
+<li>Medium:https://medium.com/@kaushikjadhav01</li>
+<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
+<li>Portfolio:http://kaushikjadhav01.github.io/</li>
 </ul>
